@@ -51,7 +51,7 @@ class _DesktopScreenState extends State<DesktopScreen> {
           Expanded(child: Column(
             children: [
               Expanded(child: Container(
-                color: Colors.amberAccent,
+                color: Color.fromARGB(255, 30, 81, 120),
               ))
             ],
           ))
