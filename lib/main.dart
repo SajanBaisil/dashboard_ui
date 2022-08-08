@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
+      title: 'D A S H B O A R D',
         debugShowCheckedModeBanner: false,
         home: ResponsiveScreen(
             Desktopscreen: DesktopScreen(),
